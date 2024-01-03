@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+# print question
+print("What is your name?")
+# pause and collect input (wait for ENTER)
+# print question
+print("What day of the week is it?")
+
