@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Linux command line game! User has 5 questions to answer to show their command line mastery!"""
 
 print("Welcome to my Linux Command Line quiz!")
 
